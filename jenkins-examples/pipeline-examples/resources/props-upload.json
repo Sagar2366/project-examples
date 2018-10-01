@@ -2,7 +2,7 @@
   "files": [
     {
       "pattern": "jenkins-examples/pipeline-examples/resources/ArtifactoryPipeline.zip",
-      "target": "libs-snapshot-local",
+      "target": "docker-remote",
       "props": "p1=v1;p2=v2"
     },
     {
